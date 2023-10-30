@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Albin 👋</h1>
+<h1 align="center">Hola, Soy Albin Hinostroza 👋</h1>
 </div>
 
 
