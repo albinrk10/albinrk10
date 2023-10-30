@@ -5,9 +5,10 @@
 
 ## Sobre mí
 - 📲 Desarrollador Móvil
-- 📲 Flutter developer 
-- Amante de GitHub
-- Experto en Soporte Técnico de TI
+- 👨‍💻 Frontend Developer
+- 🚀 Flutter Enthusiast
+- 🔄 Practicante de Scrum
+- 💻 Experto en Soporte Técnico de TI
 
 
 
