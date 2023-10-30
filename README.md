@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Albin 👋</h1>
+</div>
 
 <!--
 **albinrk10/albinrk10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
