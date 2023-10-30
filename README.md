@@ -10,6 +10,14 @@
 - 🔄 Practicante de Scrum
 - 💻 Experto en Soporte Técnico de TI
 
+<h3 align="center">Conectate conmigo:</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/albin-hinostroza-macavilca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albin-hinostroza" height="30" width="40" /></a>
+<a href="https://www.instagram.com/albinrk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albin-hinostroza" height="30" width="40" /></a>
+
+</p>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
