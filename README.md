@@ -9,6 +9,7 @@
 - 🚀 Flutter Enthusiast
 - 🔄 Practicante de Scrum
 - 💻 Experto en Soporte Técnico de TI
+- 🖥️ Backend Developer con experiencia en tecnologías como NestJS y .Net para la creación de servicios.
 
 <h3 align="center">Conectate conmigo:</h3>
 
