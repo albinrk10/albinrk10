@@ -4,7 +4,7 @@
 </div>
 
 ## 🚀 Sobre mí
-Soy un Ingeniero de Sistemas enfocado en el desarrollo de aplicaciones móviles nativas y multiplataforma, priorizando el código limpio, escalable y eficiente. Cuento con más de 5 años de experiencia diseñando e implementando soluciones tecnológicas, trabajando actualmente en el sector bancario con altos estándares de calidad.
+Desarrollo de aplicaciones móviles nativas y multiplataforma, priorizando el código limpio, escalable y eficiente. Cuento con más de 5 años de experiencia diseñando e implementando soluciones tecnológicas, trabajando actualmente en el sector bancario con altos estándares de calidad.
 
 - 📱 **Especialidad:** Desarrollo nativo con **Kotlin y Jetpack Compose**, y multiplataforma con **Flutter**.
 - 🏗️ **Arquitectura y Buenas Prácticas:** Fuerte enfoque en **Clean Architecture, MVVM, MVI y principios SOLID**.
