@@ -4,7 +4,7 @@
 </div>
 
 ## 🚀 Sobre mí
-Ingeniero de Sistemas enfocado en el desarrollo de aplicaciones móviles nativas y multiplataforma, priorizando el código limpio, escalable y eficiente. Cuento con más de 5 años de experiencia diseñando e implementando soluciones tecnológicas, trabajando actualmente en el sector bancario con altos estándares de calidad.
+Enfocado en el desarrollo de aplicaciones móviles nativas y multiplataforma, priorizando el código limpio, escalable y eficiente. Cuento con más de 5 años de experiencia diseñando e implementando soluciones tecnológicas, trabajando actualmente en el sector bancario con altos estándares de calidad.
 
 - 📱 **Especialidad:** Desarrollo nativo con **Kotlin y Jetpack Compose**, y multiplataforma con **Flutter**.
 - 🔄 **Versatilidad:** Experiencia trabajando con **React Native** y ejecutando migraciones de arquitecturas legacy hacia frameworks modernos.
@@ -32,13 +32,6 @@ Ingeniero de Sistemas enfocado en el desarrollo de aplicaciones móviles nativas
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 🎓 Educación y Certificaciones
-* **Bachiller en Ingeniería de Sistemas e Informática**
-* **SFC™ (Scrum Fundamentals Certified)**
-* Formación continua certificada en **Patrones de Diseño, Jetpack Compose, Flutter y Arquitectura Móvil** (Platzi, Udemy, DevTalles).
 
 ---
 
