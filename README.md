@@ -45,15 +45,7 @@ Ingeniero de Sistemas enfocado en el desarrollo de aplicaciones móviles nativas
 <h3 align="center">Conéctate conmigo:</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/albin-hinostroza-macavilca/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin: 0 5px;" />
-</a>
-<a href="https://www.instagram.com/albinrk/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin: 0 5px;" />
-</a>
-<a href="mailto:albinrk@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" style="margin: 0 5px;" />
-</a>
+  <a href="https://www.linkedin.com/in/albin-hinostroza-macavilca/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/albinrk/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:albinrk@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
